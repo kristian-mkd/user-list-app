@@ -28,6 +28,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 
-![user list 1](/screenshots/user-list-1.png)
-![user list 2](/screenshots/user-list-2.png)
-![user list 3](/screenshots/user-list-3.png)
+![](/screenshots/user-list-1.png =100x)
+
+![](/screenshots/user-list-2.png =200x)
+
+![](/screenshots/user-list-3.png =300x)
