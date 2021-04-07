@@ -4,7 +4,7 @@
 
 This app presents a simple list of users. The users can be filtered with fuzzy search (approximate string matching) and sorted by age in ascending order. Clicking on the users results with small popup window containing info from which country the user comes from.
 
-## Available Scripts
+## Build and start
 
 In the project directory, you can run:
 
